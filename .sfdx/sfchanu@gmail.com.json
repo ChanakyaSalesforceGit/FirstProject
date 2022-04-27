@@ -1,0 +1,11 @@
+{
+  "username": "sfchanu@gmail.com",
+  "accessToken": "e1bd34bbd29106c4e65f127381410865671fa4324eccb7a93c8191d796bb3862c3c467b253e13dc54e62df0255531e21ca75689ccce7779f9de1879a5f9310c887a60762f2e4c66c1dd983665bdf2b9debfc07f16463a651b690ab2daaf2eba5cb6f8dfaf6afbc86dc840a123531f953f74ff3ad9aad:435e5652c9f5b37448b1f8c2c259889b",
+  "instanceUrl": "https://chanu443-dev-ed.my.salesforce.com",
+  "orgId": "00D2v000002I0DLEA0",
+  "loginUrl": "https://login.salesforce.com/",
+  "refreshToken": "4af44fcd98405f93b223e49660e4bf2e164147cd96bcf282e4100a6ace3b27972837813246aac998f21dc460b291b1fab4e251a4337b01e8936d25fa88fb4f6d282220cdb1fe49fa92a78d8de3326683e747c0701414ef7afc89640718:fa75e10dc0728660a0f62eb842358c2a",
+  "clientId": "PlatformCLI",
+  "instanceApiVersion": "54.0",
+  "instanceApiVersionLastRetrieved": "19/4/2022, 1:43:42 pm"
+}

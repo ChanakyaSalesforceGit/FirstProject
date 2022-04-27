@@ -1,0 +1,1 @@
+export { soqlMiddleware } from './soqlCompletion';

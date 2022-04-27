@@ -1,0 +1,16 @@
+{
+  "username": "test-lnikpy17uv5o@example.com",
+  "accessToken": "0c7c5ac5d770d042a75189c725effd293105ba67e16f6bfed387b6ae0a3673aac883c70dc5d5fd5acc9c30b7449a18f2d19c0bff379c97fd729ab5cb5375717712bdd1cdac786a1b4f98acc1ab732c4c35e51007ee0bd2b7271f44667db8da13bc18e730f566e310c14cc4fef20c6f321b55f0ea67b2:428c4241778439c80e9f2df645b16d5c",
+  "instanceUrl": "https://site-computing-8745-dev-ed.cs75.my.salesforce.com",
+  "orgId": "00D0w0000001SxYEAU",
+  "loginUrl": "https://CS75.salesforce.com",
+  "refreshToken": "b96572f064ba751520ff9e0d732675f33cd762358c835ba96dc6cf463e334269747305563e680823af8820fe86498c770074b01f22ddbdc4b9df98610ed95c2a691a7c029ecff3b438b293d3877a595c89f6bda8de:1b3e16997be083c1faf71862d0be02f6",
+  "clientId": "PlatformCLI",
+  "devHubUsername": "chanakyayc@gmail.com",
+  "created": "1650366227000",
+  "expirationDate": "2022-05-14",
+  "createdOrgInstance": "CS75",
+  "isDevHub": false,
+  "instanceApiVersion": "54.0",
+  "instanceApiVersionLastRetrieved": "19/4/2022, 4:39:22 pm"
+}

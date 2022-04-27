@@ -1,0 +1,12 @@
+{
+  "username": "chanakyayc@gmail.com",
+  "accessToken": "3a09bf1da9382f790eb92fbc3f984b4bce74b177b73a4f536e19e2671e68f4831acad228ca3e788fa5dfa39f82fba443dd6dda10522547fdf56455be47fbd5903f0d7e2c9b0534e2708cf09f79c4b0667e4b6ddb2e365a3c8926c2e56675c18c50dbb8f1ca2c95d957d48dab99fc7f7bcf236896aeeb:77ffd55d18431b4c4f610571dce1a0ad",
+  "instanceUrl": "https://d5j0000017ommeae-dev-ed.my.salesforce.com",
+  "orgId": "00D5j0000017OmmEAE",
+  "loginUrl": "https://login.salesforce.com/",
+  "refreshToken": "21e0090afda73f9aecf0801e9bae6a5a0bf7ebe4baa2e923eab4a3e15d377d9d9d3248c6e06562580f9944c80f37ee7442da0cd9226a59372bcbcb68f5c8c005940a99cef480116b13cb6a8fdd3cf7f35d30607c57ada351e7be4e68d0:f3458c1d52a0351a3fa9ffb7249be910",
+  "clientId": "PlatformCLI",
+  "instanceApiVersion": "54.0",
+  "instanceApiVersionLastRetrieved": "27/4/2022, 5:15:12 pm",
+  "isDevHub": true
+}

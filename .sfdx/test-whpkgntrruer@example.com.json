@@ -1,0 +1,16 @@
+{
+  "username": "test-whpkgntrruer@example.com",
+  "accessToken": "b29b70b1600afe4f798f62d77af89c7266a1472d2c622f66075cc323300143a7da9045fe3aca8b1898b8873ed16b76873f3eb7c837c3b839f819c4239019044091d75261268cf0fa4afc4b25e05af07e35477584bb85dc8827921e025895cb8e7c4ca7b5e218b629df6c312a6b7f32d52200c9a10419:8f0477222dadde239557b5f307e00b3e",
+  "instanceUrl": "https://saas-drive-7508-dev-ed.cs73.my.salesforce.com",
+  "orgId": "00D6D0000002M8MUAU",
+  "loginUrl": "https://CS73.salesforce.com",
+  "refreshToken": "e7b32a0ab97232db4763483885ffdbc87a4a7a1eacbc9720330921f7071d8a946b469c48e02744dac11df9b131aaa72537d52048ecdeb36cb437c22cd101144a60a86827af076ce2e47788ccf175d7815c084876712315c6aca7c2e6f8:70a5fb8c865504cf795178640bd4c938",
+  "clientId": "PlatformCLI",
+  "devHubUsername": "chanakyayc@gmail.com",
+  "created": "1650366564000",
+  "expirationDate": "2022-05-19",
+  "createdOrgInstance": "CS73",
+  "isDevHub": false,
+  "instanceApiVersion": "54.0",
+  "instanceApiVersionLastRetrieved": "19/4/2022, 4:39:49 pm"
+}
